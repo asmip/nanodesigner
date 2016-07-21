@@ -8,3 +8,4 @@ This code is publically available, but there are absolutely no guarantees with i
 
 This program allows the creation of Protein Databank Files (*.pdb) which then inturn can be used in molecular dynamics simulations such as NAMD (Not Another Molecular Dynamics Program or now known as Nanoscale Molecular Dynamics). https://en.wikipedia.org/wiki/NAMD.
 
+A video of this program in action can be found at : https://vimeo.com/71969393
